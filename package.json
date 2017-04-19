@@ -1,0 +1,36 @@
+{
+  "name": "jud-transformer",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "~1.1.1",
+    "commander": "~2.9.0",
+    "fs-extra": "~0.26.7",
+    "md5": "~2.1.0",
+    "parse5": "~2.1.0",
+    "printf": "~0.2.3",
+    "jud-scripter": "~0.1.4",
+    "jud-styler": "~0.1.0",
+    "jud-templater": "~0.3.0"
+  },
+  "description": "jud transformer",
+  "main": "index.js",
+  "bin": {
+    "jud-transformer": "transformer.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/jud-transformer.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/jud-transformer/issues"
+  },
+  "homepage": "https://github.com/vkiding/jud-transformer#readme"
+}
