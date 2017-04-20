@@ -1,6 +1,6 @@
 {
   "name": "jud-transformer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "chalk": "~1.1.1",
     "commander": "~2.9.0",
@@ -15,7 +15,7 @@
   "description": "jud transformer",
   "main": "index.js",
   "bin": {
-    "jud-transformer": "transformer.js"
+    "jud-transformer": "bin/transformer.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
